@@ -21,7 +21,7 @@ Input.propTypes = {
     type: PropTypes.string.isRequired,
     id: PropTypes.string.isRequired,
     value: PropTypes.string.isRequired,
-    handleChange: PropTypes.string.isRequired,
+    // handleChange: PropTypes.string.isRequired,
 };
 
 export default Input;
